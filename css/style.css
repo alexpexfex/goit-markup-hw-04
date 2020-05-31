@@ -197,7 +197,6 @@ div {
 .section-hero {
   height: 600px;
   max-width: 1600px;
-  padding: 200px 0 200px 0;
   margin-left: auto;
   margin-right: auto;
   text-align: center;
@@ -216,6 +215,7 @@ div {
 
 .hero-title {
   padding: 0;
+  padding-top: 200px;
   margin: 0;
   margin-bottom: 46px;
 
