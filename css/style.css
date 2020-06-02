@@ -217,9 +217,9 @@ div {
   padding: 0;
   padding-top: 200px;
   margin: 0;
-  margin-bottom: 46px;
+  margin-bottom: 30px;
 
-  height: 104px;
+  /* height: 120px; */
   text-align: center;
   color: var(--primary-bcg-color);
   font-weight: 900;
